@@ -15,6 +15,10 @@ pipenv install pyspark
 
 No longer necessary the previous Spark installation steps.
 
+- PyCharm
+
+Directly open the project with the Pipfile present, it will interpret it correctly as a Pipenv
+project. Do not use "New Project".
 
 Issues:
 
