@@ -20,6 +20,7 @@ No longer necessary the previous Spark installation steps.
 Directly open the project with the Pipfile present, it will interpret it correctly as a Pipenv
 project. Do not use "New Project".
 
+
 Issues:
 
 - Cannot install Spyder through pipenv. Strange error.

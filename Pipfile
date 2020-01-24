@@ -21,6 +21,7 @@ matplotlib = "*"
 jupyter = "*"
 #nltk = "*"
 #spyder = "*"
+pyspark = "*"
 
 [requires]
 python_version = "3.6"
