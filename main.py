@@ -5,7 +5,7 @@ from example1.test import basic
 #from pyspark.sql import SparkSession
 from example1.test import basic2
 from example2.dataframe1 import test1, test2, test3, test4, test5
-
+from example2.dataframe2 import testAgg_1, testAgg_2
 
 if __name__ == '__main__':
     #basic()
@@ -15,6 +15,8 @@ if __name__ == '__main__':
     #test2()
     #test3()
     #test4()
-    test5()
+    #test5()
+    #testAgg_1()
+    testAgg_2()
 
 
