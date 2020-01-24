@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+numpy = "*"
+scikit-learn = "*"
+scipy = "*"
+matplotlib = "*"
+gensim = "*"
+spacy = "*"
+keras = "*"
+pyspellchecker = "*"
+tensorflow = "*"
+seaborn = "*"
+spyder = "*"
+nltk = "*"
+
+[requires]
+python_version = "3.6"
