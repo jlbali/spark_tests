@@ -9,8 +9,8 @@ from example2.dataframe1 import test1
 
 if __name__ == '__main__':
     #basic()
-    basic2()
+    #basic2()
 
-    #test1()
+    test1()
 
 
