@@ -25,4 +25,6 @@ Issues:
 
 - Cannot install Spyder through pipenv. Strange error.
 
+- Hint Typing: look how to declare types for variables.
+
 
