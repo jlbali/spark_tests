@@ -20,6 +20,8 @@ No longer necessary the previous Spark installation steps.
 Directly open the project with the Pipfile present, it will interpret it correctly as a Pipenv
 project. Do not use "New Project".
 
+If PyCharm asks for an interpreter in a yellow sign, mark use Pipenv interpreter.
+
 
 Issues:
 
