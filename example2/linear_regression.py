@@ -13,4 +13,6 @@ def test_LR() -> None:
     print("Descriptive statistics")
     #df.describe() # Generates a strange exception.
 
+# For the errors, refer to: https://stackoverflow.com/questions/53583199/pyspark-error-unsupported-class-file-major-version-55
+
 
